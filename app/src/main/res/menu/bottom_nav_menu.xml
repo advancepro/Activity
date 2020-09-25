@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_baseline_star_24"
+        android:title="Bloom"/>
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_baseline_star_half_24"
+        android:title="Stella" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_baseline_star_border_24"
+        android:title="Flora" />
+
+    <item
+        android:id="@+id/navigation_last"
+        android:icon="@drawable/ic_baseline_stars_24"
+        android:title="Daphne" />
+
+</menu>

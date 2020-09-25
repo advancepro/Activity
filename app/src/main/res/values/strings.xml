@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="title_home">First Page</string>
+    <string name="title_dashboard">Second Page</string>
+    <string name="title_notifications">Third Page</string>
+    <string name="title_last">Fourth Page</string>
+</resources>
